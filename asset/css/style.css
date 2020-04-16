@@ -2125,7 +2125,7 @@ textarea.input {
 }
 
 .slick-dots li.slick-active button:before {
-  background-color: rgba(140, 9, 68, 0.808);
+  background-color: rgb(140, 9, 68);
 }
 
 .custom-dots .slick-dots {
@@ -2197,3 +2197,5 @@ textarea.input {
 
 #FFFFFF #000000 #7B00FF, rgba(140, 9, 68, 0.808), #02704F
 */
+
+
