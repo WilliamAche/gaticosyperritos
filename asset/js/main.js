@@ -24,7 +24,7 @@
 			slidesToScroll: 1,
 			autoplay: true,
 			infinite: true,
-			speed: 300,
+			speed: 280,
 			dots: false,
 			arrows: true,
 			appendArrows: $nav ? $nav : false,
